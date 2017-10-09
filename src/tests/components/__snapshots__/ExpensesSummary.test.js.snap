@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render ExpenseSummary correctly 1`] = `
+<div>
+  <p>
+    Viewing 
+    0
+     
+    expense
+     totalling 
+    $0.00
+  </p>
+</div>
+`;
